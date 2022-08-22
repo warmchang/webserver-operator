@@ -1,0 +1,6 @@
+apiVersion: my.domain/v1
+kind: William
+metadata:
+  name: william-sample
+spec:
+  # TODO(user): Add fields here
